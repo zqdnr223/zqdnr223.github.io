@@ -1,2 +1,13 @@
-123
-测试
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Hello World, Hello Blog！				# 标题 
+subtitle:   你好 世界 #副标题
+date:       2022.10.31  				# 时间
+author:     fh				# 作者
+header-img: img/new/beij.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 测试
+---
+###2022年过去了
+##这一年我都干了什么？？
